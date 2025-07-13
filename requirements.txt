@@ -1,0 +1,7 @@
+streamlit>=1.34
+pandas
+numpy
+scikit‑learn
+matplotlib
+seaborn
+aif360==0.6.1           # pin because older wheels exist for many OSes
