@@ -2,6 +2,10 @@
 
 This project is an interactive **AI fairness audit tool** built using [Streamlit](https://streamlit.io/). It analyzes bias in the COMPAS dataset across protected attributes like **race**, **sex**, and **age category**, using fairness metrics like **False Positive Rate**, **Equal Opportunity Difference**, and **Disparate Impact**.
 
+![COMPAS Fairness Audit](https://img.shields.io/badge/Dynamic-COMPAS--Audit-purple?style=for-the-badge&logo=streamlit)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
+
 ##  Tools & Libraries
 
 ##  Machine Learning Stack 
