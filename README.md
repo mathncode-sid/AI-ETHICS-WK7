@@ -14,7 +14,6 @@ This project is an interactive **AI fairness audit tool** built using [Streamlit
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
 ## 📁 Files
 
 - `app.py` — The main Streamlit app script.
