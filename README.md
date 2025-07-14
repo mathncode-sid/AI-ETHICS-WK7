@@ -2,6 +2,19 @@
 
 This project is an interactive **AI fairness audit tool** built using [Streamlit](https://streamlit.io/). It analyzes bias in the COMPAS dataset across protected attributes like **race**, **sex**, and **age category**, using fairness metrics like **False Positive Rate**, **Equal Opportunity Difference**, and **Disparate Impact**.
 
+##  Tools & Libraries
+
+##  Machine Learning Stack 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 ## 📁 Files
 
 - `app.py` — The main Streamlit app script.
