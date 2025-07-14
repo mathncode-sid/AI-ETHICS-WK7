@@ -1,4 +1,4 @@
-# 🔍 Dynamic COMPAS Fairness Audit (Streamlit App)
+# Dynamic COMPAS Fairness Audit (Streamlit App)
 
 This project is an interactive **AI fairness audit tool** built using [Streamlit](https://streamlit.io/). It analyzes bias in the COMPAS dataset across protected attributes like **race**, **sex**, and **age category**, using fairness metrics like **False Positive Rate**, **Equal Opportunity Difference**, and **Disparate Impact**.
 
@@ -14,13 +14,13 @@ This project is an interactive **AI fairness audit tool** built using [Streamlit
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📁 Files
+## Files
 
 - `app.py` — The main Streamlit app script.
 - `compas_clean.csv` — Preprocessed COMPAS dataset file (must be placed in the same directory).
 - `README.md` — This documentation file.
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install requirements**
 
@@ -40,7 +40,7 @@ streamlit run app.py
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **Dynamic protected attribute** selector:
   - `race` (Caucasian vs African-American)
@@ -65,7 +65,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Fairness Metrics Explained
+## Fairness Metrics Explained
 
 - **False Positive Rate (FPR)**: How often the model incorrectly predicts recidivism for someone who doesn’t reoffend.
 - **Equal Opportunity Difference (EOD)**: Difference in true positive rates between groups.
@@ -73,14 +73,15 @@ streamlit run app.py
 
 ---
 
-## 📝 Ethical Use
+## Ethical Use
 
 This tool is designed for **educational and audit purposes**. Real-world deployment of predictive systems in sensitive areas (e.g., criminal justice) should always involve rigorous legal, ethical, and social review.
 
 ---
 
-## 📌 Credits
+## Credits
 
 Dataset Source: [ProPublica COMPAS Dataset](https://github.com/propublica/compas-analysis)
+
 
 Developed for educational use as part of an AI Ethics assignment.
